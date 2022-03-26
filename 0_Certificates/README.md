@@ -1,4 +1,4 @@
 # Certificates
-* sololearn
+* Sololearn
 * NDG Linux
 * First day Github = Screenshot
