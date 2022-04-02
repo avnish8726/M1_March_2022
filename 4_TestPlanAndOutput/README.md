@@ -1,6 +1,6 @@
-# Test Plan and Test Ouput
+# Test Plan & Test Ouput
 
-| **Test ID** | **HLT ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**PASS/FAIL**  |    
+| **Test_ID** | **HLT ID** | **Description**                                              | **Exp_IN** | **Exp_OUT** | **Actual_Out** |**PASS/FAIL**  |    
 |-------------|-----|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  T_01|H_01| Provide required details for login to book a ticket| password| Successfully logined In | Successfully logined In| PASS |
 |  T_02|H_01| When wrong password is entered| Password|  Entered Password is wrong | Entered Password is wrong | PASS |
