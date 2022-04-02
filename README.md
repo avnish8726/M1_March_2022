@@ -1,6 +1,6 @@
-# SDLC Activity Based Learning
+# M1_Movie_Ticket_Booking
 
-![Banner](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/1_Requirements/banner.png)
+![Banner](https://github.com/avnish8726/M1_Movie_Ticket_Booking/blob/main/1_Requirements/banner.png)
 
 <!--
 Visit [Pages for Report -optional](using github.io option)
