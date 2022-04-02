@@ -1,4 +1,4 @@
-# Document: The code using Doxygen
+# Document: The code using doxygen
 
 doc: Doxyfile
 	doxygen ./Doxyfile
