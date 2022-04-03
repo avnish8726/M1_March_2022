@@ -1,12 +1,11 @@
-# Requirements
+# Requirements : 
 ## Introduction
-  The aim of the project is to provide information of the MOVIE TICKET BOOKING SYTEM to a customer to book  the tickets.The project has been developed to carry out process easily and quickly.The system enables the user to Book tickets,Cancel tickets,View all booking records
+ The project's goal is to notify a consumer about the MOVIE TICKET BOOKING  so that they can purchase tickets. The project was created with the goal of making the process as simple and quick as possible. The user can book tickets, cancel tickets, and view all booking records using the system.
 
 ## Research
-Cinemas help in contributing to our daily memories as they provide an essential part of our culture,going to cinemas has been the culture of almost all the families of today’s generation. It is a time when the family can spend some time altogether by stealing some hours from their busy schedule. Movie Ticket Booking System provides the customers facility to book tickets for a movie and to gather information about the movies and theaters.Customers can book ticket of his choice and may cancel a ticket
+Cinemas contribute to our everyday recollections by serving as an important component of our culture; going to the movies has become a part of practically every family's culture in today's generation. It's a chance for the family to spend some quality time together by taking a few hours out of their busy schedule. Customers can use the Movie Ticket Booking  to book movie tickets as well as acquire information about movies and venues. Customers can book and cancel tickets of their choice.
 
-The main goal of our project is to provide various types of customer facilities, and provide good  customer service
-   It should fulfill almost all the process requirements of booking a ticket
+Our project's major purpose is to supply various forms of client facilities as well as excellent customer service. It should be able to meet practically all of the conditions for reserving a ticket.
 
 ## Features
 #### Booking tickets
@@ -14,7 +13,7 @@ The main goal of our project is to provide various types of customer facilities,
 #### Change ticket price(only admin)
 #### View all booking records
 ## Benefits
-### Movie Ticket Booking system provides wide range of benefit they are as follows
+### The following are some of the advantages of using a movie ticket booking system:
 #### Provides flexibility
 #### For better performance
 #### User Friendly
@@ -45,16 +44,16 @@ Movie Ticket Booking System have few inbuilt features like
 ### * Theater
 
 ## What
-*   To bulid a system to book ticket,cancel ticket,view reserverd seats,change price of ticket(only admin)
+*   To create a system for booking tickets, cancelling tickets, seeing reserved seats, and changing ticket prices (only admin)
 
 ## When
 *   When user wants to carry out the tasks quickly and this reduces manual work and saves time
 
 ## Where
-*   This issue is in all parts of the world in theater where there is a lot of booking,cancellation of tickets happening in all the time
+*   This is a problem at theatres all around the world, where there is a lot of booking and cancellation of tickets all the time.
 
 ## How
-*   By creating a system which will provide all the functionalities required,the booking of, cancelling of the tickes and other actions will be take more time and system needs more workers for these actions
+*  Booking, cancelling tickes, and other actions will take longer if a system with all the required functionalities is created, and the system will require more workers to complete these tasks.
 
 ### Detail requirements
 
